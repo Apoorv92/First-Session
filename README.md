@@ -1,2 +1,2 @@
 # First Session of Git
-Let's see how we do
+Let's see how we do today
